@@ -10,6 +10,7 @@ import json
 
 # ---- Force NLTK download ----
 nltk.download('punkt', quiet=True)
+nltk.download('punkt_tab', quiet=True)
 
 # ---- Page Configuration ----
 st.set_page_config(
