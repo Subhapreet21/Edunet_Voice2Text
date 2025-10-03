@@ -1,6 +1,9 @@
 streamlit
 streamlit-mic-recorder
 transformers
-torch
+sentencepiece
 nltk
 openai-whisper
+tiktoken
+blobfile
+torch --index-url https://download.pytorch.org/whl/cpu
