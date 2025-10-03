@@ -1,7 +1,5 @@
 
-# 📑 Project Report
-
-**Project Title:** Lecture Voice-to-Notes Generator
+# 📑 **Project Title:** Lecture Voice-to-Notes Generator
 
 ---
 
